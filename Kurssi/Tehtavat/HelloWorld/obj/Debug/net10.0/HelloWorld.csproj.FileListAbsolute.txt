@@ -1,0 +1,15 @@
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\HelloWorld\bin\Debug\net10.0\HelloWorld.exe
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\HelloWorld\bin\Debug\net10.0\HelloWorld.deps.json
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\HelloWorld\bin\Debug\net10.0\HelloWorld.runtimeconfig.json
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\HelloWorld\bin\Debug\net10.0\HelloWorld.dll
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\HelloWorld\bin\Debug\net10.0\HelloWorld.pdb
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\HelloWorld\obj\Debug\net10.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfo.cs
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\HelloWorld\obj\Debug\net10.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\HelloWorld\obj\Debug\net10.0\HelloWorld.sourcelink.json
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\HelloWorld\obj\Debug\net10.0\HelloWorld.dll
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\HelloWorld\obj\Debug\net10.0\refint\HelloWorld.dll
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\HelloWorld\obj\Debug\net10.0\HelloWorld.pdb
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\HelloWorld\obj\Debug\net10.0\HelloWorld.genruntimeconfig.cache
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\HelloWorld\obj\Debug\net10.0\ref\HelloWorld.dll

@@ -1,0 +1,15 @@
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Training\NewTypes\src\NewTypes\bin\Debug\net10.0\NewTypes.exe
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Training\NewTypes\src\NewTypes\bin\Debug\net10.0\NewTypes.deps.json
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Training\NewTypes\src\NewTypes\bin\Debug\net10.0\NewTypes.runtimeconfig.json
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Training\NewTypes\src\NewTypes\bin\Debug\net10.0\NewTypes.dll
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Training\NewTypes\src\NewTypes\bin\Debug\net10.0\NewTypes.pdb
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Training\NewTypes\src\NewTypes\obj\Debug\net10.0\NewTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Training\NewTypes\src\NewTypes\obj\Debug\net10.0\NewTypes.AssemblyInfoInputs.cache
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Training\NewTypes\src\NewTypes\obj\Debug\net10.0\NewTypes.AssemblyInfo.cs
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Training\NewTypes\src\NewTypes\obj\Debug\net10.0\NewTypes.csproj.CoreCompileInputs.cache
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Training\NewTypes\src\NewTypes\obj\Debug\net10.0\NewTypes.sourcelink.json
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Training\NewTypes\src\NewTypes\obj\Debug\net10.0\NewTypes.dll
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Training\NewTypes\src\NewTypes\obj\Debug\net10.0\refint\NewTypes.dll
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Training\NewTypes\src\NewTypes\obj\Debug\net10.0\NewTypes.pdb
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Training\NewTypes\src\NewTypes\obj\Debug\net10.0\NewTypes.genruntimeconfig.cache
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Training\NewTypes\src\NewTypes\obj\Debug\net10.0\ref\NewTypes.dll
