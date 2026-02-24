@@ -45,13 +45,19 @@ namespace Harjoitusprojekti1
             Console.WriteLine("");
 
             // Ryhmittely
+            Console.WriteLine("Luodaan kategoriat tuotteille.");
             Dictionary<string, List<string>> categories = new Dictionary<string, List<string>>();
+            Console.WriteLine("Kategoriat luotu, Aletaan lisämään tuotteita.");
+            Console.WriteLine("");
+
             AddToCategory(categories, "Dairy", "Milk");
             AddToCategory(categories, "Fruit", "Apple");
             AddToCategory(categories, "Fruit", "Banana");
 
             Console.WriteLine();
+            Console.WriteLine("Tulostetaan kategoriat ja niihin kuuluvat tuotteet.");
             PrintCategories(categories);
+
         }
 
         static void PrintStock(Dictionary<string, int> stock)
@@ -106,7 +112,7 @@ namespace Harjoitusprojekti1
 
         static void RemoveProduct(Dictionary<string, int> stock, string name)
         {
-            // TODO: Remove + tulostus
+            // TODO: Remove + tulostus :DONE
             Console.WriteLine($"Trying to remove {name} from stock.");
             if (stock.ContainsKey(name))
             {
@@ -123,6 +129,20 @@ namespace Harjoitusprojekti1
         static void AddToCategory(Dictionary<string, List<string>> categories, string category, string product)
         {
             // TODO: ContainsKey/TryGetValue + lista
+            // Sanakirja luodaan Main ohjelmassa. Kategoriaan lisätään tuotteita. Jos kategoriaa ei ole, niin se luodaan ja tuote lisätään siihen.
+            Console.WriteLine($"Adding {product} to category {category}");
+            if (!categories.ContainsKey(category))  //Jos kategoriaa ei ole, luodaan se ja lisätään tuote siihen.
+            {
+                categories.Add(category, new List<string>());
+                Console.WriteLine($"Category {category} did not exist, created it.");
+                Console.WriteLine($"Adding {product}.");
+                categories[category].Add(product);
+            }
+            else if (categories.ContainsKey(category))  //Jos kategoria löytyy, lisää tuote siihen...
+            {
+                categories[category].Add(product);
+                Console.WriteLine($"Added {product} to category {category}");
+            }
         }
 
         static void PrintCategories(Dictionary<string, List<string>> categories)
