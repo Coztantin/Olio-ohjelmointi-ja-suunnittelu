@@ -26,7 +26,7 @@ using System.Collections.Generic;
         {
             List<Student> students = new List<Student>();
 
-            // TODO: Add initial students here
+            students.Add(new Student("Kimmo", 37, "ICT"));
 
             PrintAllStudents(students);
 
