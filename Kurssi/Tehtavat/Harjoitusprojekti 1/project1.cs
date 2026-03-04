@@ -128,7 +128,7 @@ namespace Harjoitusprojekti1
 
         static void AddToCategory(Dictionary<string, List<string>> categories, string category, string product)
         {
-            // TODO: ContainsKey/TryGetValue + lista
+            // TODO: ContainsKey/TryGetValue + lista :DONE
             // Sanakirja luodaan Main ohjelmassa. Kategoriaan lisätään tuotteita. Jos kategoriaa ei ole, niin se luodaan ja tuote lisätään siihen.
             Console.WriteLine($"Adding {product} to category {category}");
             if (!categories.ContainsKey(category))  //Jos kategoriaa ei ole, luodaan se ja lisätään tuote siihen.
