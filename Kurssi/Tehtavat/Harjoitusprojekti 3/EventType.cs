@@ -8,3 +8,4 @@ namespace Harjoitusprojekti3
         Meeting
     }
 }
+// Minkä tyyppisiä tapahtumia...

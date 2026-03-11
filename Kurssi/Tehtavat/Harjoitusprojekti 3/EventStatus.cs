@@ -7,3 +7,4 @@ namespace Harjoitusprojekti3
         Cancelled
     }
 }
+//Mikä on tapahtumien tilanne...
