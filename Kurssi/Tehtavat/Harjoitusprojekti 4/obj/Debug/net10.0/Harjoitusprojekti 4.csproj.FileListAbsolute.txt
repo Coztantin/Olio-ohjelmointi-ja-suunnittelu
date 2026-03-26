@@ -1,0 +1,15 @@
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\Harjoitusprojekti 4\bin\Debug\net10.0\Harjoitusprojekti 4.exe
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\Harjoitusprojekti 4\bin\Debug\net10.0\Harjoitusprojekti 4.deps.json
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\Harjoitusprojekti 4\bin\Debug\net10.0\Harjoitusprojekti 4.runtimeconfig.json
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\Harjoitusprojekti 4\bin\Debug\net10.0\Harjoitusprojekti 4.dll
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\Harjoitusprojekti 4\bin\Debug\net10.0\Harjoitusprojekti 4.pdb
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\Harjoitusprojekti 4\obj\Debug\net10.0\Harjoitusprojekti 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\Harjoitusprojekti 4\obj\Debug\net10.0\Harjoitusprojekti 4.AssemblyInfoInputs.cache
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\Harjoitusprojekti 4\obj\Debug\net10.0\Harjoitusprojekti 4.AssemblyInfo.cs
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\Harjoitusprojekti 4\obj\Debug\net10.0\Harjoitusprojekti 4.csproj.CoreCompileInputs.cache
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\Harjoitusprojekti 4\obj\Debug\net10.0\Harjoitusprojekti 4.sourcelink.json
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\Harjoitusprojekti 4\obj\Debug\net10.0\Harjoitusprojekti 4.dll
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\Harjoitusprojekti 4\obj\Debug\net10.0\refint\Harjoitusprojekti 4.dll
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\Harjoitusprojekti 4\obj\Debug\net10.0\Harjoitusprojekti 4.pdb
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\Harjoitusprojekti 4\obj\Debug\net10.0\Harjoitusprojekti 4.genruntimeconfig.cache
+C:\Users\kosti\Documents\Centria\Olio-ohjelmointi-ja-suunnittelu\Kurssi\Tehtavat\Harjoitusprojekti 4\obj\Debug\net10.0\ref\Harjoitusprojekti 4.dll
